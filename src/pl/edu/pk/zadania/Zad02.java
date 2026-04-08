@@ -4,7 +4,7 @@ package pl.edu.pk.zadania;/*
 
 public class Zad02 {
     static void main(String[] args) {
-        double liczba = 20.0;
+        double liczba = 10.0;
         double pierwiastek = Math.sqrt(liczba);
 // Rzutujemy na int (upychamy duże pudełko do małego)
         int wynikInt = (int) pierwiastek;
